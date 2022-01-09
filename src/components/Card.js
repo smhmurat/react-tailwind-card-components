@@ -27,7 +27,7 @@ export default function Card() {
                                         </div>
                                     </div>
                                     <div>
-                                        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%91%D0%B0%D1%85%D0%B0_%D0%92%D0%B0%D0%BB%D0%B0%D0%B4_-_%D0%9C%D0%B0%D0%B0%D1%80%D0%B8%D1%84_%28%D0%9C%D0%B8%D0%BD%D0%B8%D0%B0%D1%82%D1%8E%D1%80%D0%B0%29.jpg/440px-%D0%91%D0%B0%D1%85%D0%B0_%D0%92%D0%B0%D0%BB%D0%B0%D0%B4_-_%D0%9C%D0%B0%D0%B0%D1%80%D0%B8%D1%84_%28%D0%9C%D0%B8%D0%BD%D0%B8%D0%B0%D1%82%D1%8E%D1%80%D0%B0%29.jpg' className='w-24 h-24 items-center rounded-full border-4 border-silver-color md:w-32 md:h-32' alt='photo'/>
+                                        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%91%D0%B0%D1%85%D0%B0_%D0%92%D0%B0%D0%BB%D0%B0%D0%B4_-_%D0%9C%D0%B0%D0%B0%D1%80%D0%B8%D1%84_%28%D0%9C%D0%B8%D0%BD%D0%B8%D0%B0%D1%82%D1%8E%D1%80%D0%B0%29.jpg/440px-%D0%91%D0%B0%D1%85%D0%B0_%D0%92%D0%B0%D0%BB%D0%B0%D0%B4_-_%D0%9C%D0%B0%D0%B0%D1%80%D0%B8%D1%84_%28%D0%9C%D0%B8%D0%BD%D0%B8%D0%B0%D1%82%D1%8E%D1%80%D0%B0%29.jpg' className='w-24 h-24 items-center rounded-full border-4 border-silver-color md:w-32 md:h-32' alt='author'/>
                                     </div>
                                 </div>
                                 <div>
