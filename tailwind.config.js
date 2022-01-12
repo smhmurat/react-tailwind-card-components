@@ -1,4 +1,5 @@
 module.exports = {
+  mode: 'jit',
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
@@ -9,8 +10,10 @@ module.exports = {
         'secondary-color': '#ecf0f1',
         'silver-color': '#bdc3c7',
         'sun-color': '#f1c40f',
-        'card-1': '#f39c12',
-        '2': '#16a085'
+        'color-1': '#f39c12',
+        'color-2': '#16a085',
+        'color-3': '#2980b9',
+        'color-4': '#8e44ad'
       },
     },
   },
